@@ -1,6 +1,6 @@
 ![MasterHead](https://www.torontomu.ca/content/dam/graduate/programs/computer-science/Code-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Haytam Marraha</h1>
-<h3 align="center">A Very Passionate and Serious Front End Developper</h3>
+<h3 align="center">A Very Passionate and Serious Web Developper</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"/>
 
 <p align="left"> <a href="https://twitter.com/h_marraha" target="blank"><img src="https://img.shields.io/twitter/follow/h_marraha?logo=twitter&style=for-the-badge" alt="h_marraha" /></a> </p>
