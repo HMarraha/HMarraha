@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/h_marraha" target="blank"><img src="https://img.shields.io/twitter/follow/h_marraha?logo=twitter&style=for-the-badge" alt="h_marraha" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/h_marraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h_marraha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haytam-marraha-279093254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haytam-marraha-279093254" height="30" width="40" /></a>
